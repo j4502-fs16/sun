@@ -20,3 +20,8 @@ h1{
 #nav a:hover, a:active {
   background-color:#bc88ec;
 }
+#container{
+  width: 95%;
+  background-color:#bc88ec;
+  margin: 0 auto;
+}
