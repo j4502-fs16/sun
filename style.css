@@ -14,7 +14,7 @@ body{
 
 #container{
   width: 95%;
-  background-color:#ffffff;
+  background-color:#8aedbb;
   margin: 0 auto;
 }
 
@@ -32,7 +32,7 @@ body{
 }
 
 #nav li{
-  list-styple-type:none;
+  list-style-type:none;
   float:left;
   margin:0;
   padding:0;
@@ -64,3 +64,4 @@ body{
 img{
   border-style:none;
 }
+</body>
