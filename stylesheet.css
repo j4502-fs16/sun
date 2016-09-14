@@ -6,3 +6,17 @@ h1{
   margin-top:0;
   text-align:right;
 }
+#nav a:link, a:visited {
+  display: block;
+  color: #fff;
+  background-color: #bc88ec;
+  font-weight:bold;
+  text-align:center;
+  text-decoration:none;
+  padding:4px;
+  font-family:Helvetica, Arial, sans-serif;
+}
+
+#nav a:hover, a:active {
+  background-color:#7a991a;
+}
