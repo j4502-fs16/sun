@@ -15,7 +15,7 @@ h2{
   text-align:center;
 }
 h3{
-  color:white;
+  color:black;
   font-family:Georgia, "Time New Roman", serif;
   font-size:1.8em;
   font-style:normal;
@@ -54,7 +54,7 @@ p{
   display: block;
   color: #8aedbb;
   background-color: #f3f013;
-  font-weight:italic;
+  font-weight: bold;
   text-align:center;
   text-decoration:none;
   padding:4px;
