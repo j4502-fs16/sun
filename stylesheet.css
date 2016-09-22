@@ -1,11 +1,3 @@
-h1{
-  color:white;
-  font-family: 'Open Sans', sans-serif;;
-  font-size:0.8em;
-  font-style:italic;
-  margin-top:0;
-  text-align:right;
-}
 h2{
   color:black;
   font-family: 'Open Sans', sans-serif;
@@ -15,7 +7,7 @@ h2{
   text-align:center;
 }
 h3{
-  color:black;
+  color:#e5f553;
   font-family: 'Satisfy', cursive;
   font-size:1.8em;
   font-style:normal;
@@ -33,17 +25,14 @@ p{
 }
 #container{
   width: 95%;
-  background-color:#bc88ec;
+  background-color:#2694FF;
   margin: 0 auto;
 }
-.caption{
-  color:black;
-  font-family:Georgia, "Times New Roman", serif;
-  font-size:0.8em;
-  font-style:italic;
-  margin-top:0;
-  text-align:right;
+
+a:link, a:visited{
+  color: #f5ac53;
 }
+
 #nav li{
   list-style-type:none;
   float:left;
@@ -53,17 +42,17 @@ p{
 }
 #nav a:link, a:visited {
   display: block;
-  color: #e5f553;
-  background-color: #79d9ed;
+  color: #f5ac53;
+  background-color: #3049E8;
   font-weight: bold;
   text-align:center;
   text-decoration:none;
   padding:4px;
-  font-family:Helvetica, Arial, sans-serif;
+  font-family:'Open Sans', sans-serif;
 }
 
 #nav a:hover, a:active {
-  background-color:#bc88ec;
+  background-color:#2694FF;
 }
 
 #nav {
@@ -71,7 +60,13 @@ p{
 }
 img{
   border-style:none;
+  width:400px;
 }
+
+#image{
+  margin:0 auto;
+}
+
 a{
   text-decoration:none;
 }
