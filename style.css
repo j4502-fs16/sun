@@ -62,6 +62,16 @@ body{
 }
 
 img{
-  border-style:none;
+  width:50%;
 }
-</body>
+@media (min-width:800px){
+.main{
+    display:flex;
+    flex-flow:row;
+  }
+img{
+  border-style:none;
+  width:20%;
+  margin-right:10px;
+}
+}
