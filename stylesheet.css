@@ -143,6 +143,44 @@ aside{
   }*/
 }
 
+body {
+  background-color: #F8ECC2;
+  font-family: Helvetica, Arial, sans-serif;
+}
+
+nav ul li {
+  display:block;
+  border-top:1px #79896D solid;
+}
+
+nav a {
+  color:#f8ecc2;
+  display:block;
+  text-decoration:none;
+  padding:20px 30px;
+}
+
+nav ul {
+  display:none;
+
+}
+@media screen and (min-width:800px){
+  nav ul{
+    display:flex;
+  }
+
+  nav ul li{
+    border-top:none;
+  }
+
+/*.menu-trigger {
+  display:none;
+}*/
+
+
+
+}
+
 @media all and (min-width:800px){
 
   .main{
